@@ -1,5 +1,5 @@
 import react from 'react';
-/* import { faPhone } from '@awesome/free-solid-svg-icons'; */
+import { faCheck } from '@fortawesome/free-solid-svg-icons'; 
 
 
 const Header2: React.FC = () => {
