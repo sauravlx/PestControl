@@ -9,7 +9,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center gap-3">
           <Image src={logo} alt="Renbow Logo" width={190} height={40} className="rounded-full" />
-          <h1 className="text-2xl font-extrabold tracking-wide">Renbow Pest Control</h1>
+         {/* <h1 className="text-2xl font-extrabold tracking-wide">Renbow Pest Control</h1> */}
         </div>
         <nav>
           <ul className="flex gap-6 text-lg">
