@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "./ui/Button";
+import Button from "../components/Button";
 
 const HeroSection: React.FC = () => {
   return (
@@ -14,9 +14,6 @@ const HeroSection: React.FC = () => {
 >
   Get a Quote
 </a>
-
-
-    
 
     </section>
   );
